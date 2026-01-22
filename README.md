@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anirudh Kumar
 ======================================================================================================================================
 
-## 🚀 Full Stack Developer & ML Engineer  
+## 🚀 AI/ML Engineer And Web Developer  
 
 I’m passionate about building scalable AI/ML applications, web platforms, and impactful software solutions.  
 I enjoy solving real-world problems through clean code, data-driven approaches, and collaborative development.  
@@ -11,7 +11,7 @@ I enjoy solving real-world problems through clean code, data-driven approaches, 
 ### 🌍 About Me  
 - 📍 Based in **India**  
 - 🖥️ Portfolio: [Anirudh Kumar](http://abhianirudh.netlify.app)  
-- ✉️ Email: [anirudhkkg123@gmail.com](mailto:anirudhkkg123@gmail.com)  
+- ✉️ Email: [anirudhkumar1115@gmail.com](mailto:anirudhkumar1115@gmail.com)  
 - 🧠 Currently learning & working on:  
   - AI-powered **Fake News & Deepfake Detection System** (ML + NLP + CV + WhatsApp Bot)  
   - Scalable **Flutter + Firebase apps** with secure backend integration  
